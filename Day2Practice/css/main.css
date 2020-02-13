@@ -103,6 +103,11 @@ body{
 	bottom: 17px;
 }
 
+.card__yellow{
+	background: #fffbd7;
+	padding: 8px;	
+}
+
 .card__adress{
 	color: #858686;
 	padding: 10px;
