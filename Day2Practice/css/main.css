@@ -192,3 +192,66 @@ body{
 	margin-top: 7px;
 	margin-right: 10px;
 }
+
+@media screen and (max-width: 375px){
+	.all{
+		
+		flex-direction: column;
+			
+		
+	}
+
+	.card{
+		margin-left: auto;
+   	 	margin-right: auto;
+   	 	padding: 100px;
+	}
+
+	.block{
+		height: 1950px;
+	}
+
+	.nav{
+		width: 100%;
+		text-align: center;
+		display: block;
+		
+	}.nav{
+		width: 100%;
+		text-align: center;
+		display: block;
+		
+	}
+
+}
+
+@media screen and (min-width: 321px){
+	.all{
+		
+		flex-direction: column;
+			
+		
+	}
+
+	.card{
+		margin-left: auto;
+   	 	margin-right: auto;
+   	 	padding: 100px;
+	}
+
+	.block{
+		height: 1950px;
+	}
+
+	.nav{
+		width: 100%;
+		text-align: center;
+		display: block;
+		
+	}
+
+	.card__like i{
+		top: 280px;
+	}
+
+}
